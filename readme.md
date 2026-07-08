@@ -155,3 +155,6 @@ Engineered by a developer building a real-world JARVIS-style assistant.
 | --- | --- |
 | YouTube | [@FatihMakes](https://www.youtube.com/@FatihMakes) |
 | Instagram | [@fatihmakes](https://www.instagram.com/fatihmakes) |
+#   J a r v i s _ A r i s e  
+ #   J a r v i s _ M a r k X L V I I I  
+ 
