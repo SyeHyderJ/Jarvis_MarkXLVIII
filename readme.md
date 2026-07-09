@@ -1,4 +1,4 @@
-# ⚙️ JARVIS — Mark XLVIII
+# ⚙️ Mehdi — Mark XLVIII
 
 ### A Real-Time, Cross-Platform Voice AI Assistant Inspired by *Iron Man*'s J.A.R.V.I.S.
 
@@ -14,9 +14,9 @@ Originally built by [FatihMakes](https://www.youtube.com/@FatihMakes) · [Origin
 
 ## 📌 About This Project
 
-JARVIS (Mark XLVIII) is a real-time voice AI assistant that can **hear, see, understand, and control a computer** — across Windows, macOS, and Linux. It's built on the Gemini Live API for native low-latency audio streaming, giving it natural, interruptible conversation rather than the typical stilted request/response loop.
+Mehdi (Mark XLVIII) is a real-time voice AI assistant that can **hear, see, understand, and control a computer** — across Windows, macOS, and Linux. It's built on the Gemini Live API for native low-latency audio streaming, giving it natural, interruptible conversation rather than the typical stilted request/response loop.
 
-Named after **J.A.R.V.I.S.**, Tony Stark's AI in *Iron Man*, this project is a hands-on attempt to build that same always-listening, always-useful assistant with real, available technology. It started as an open-source build by **FatihMakes**; I forked it to study the architecture, fix real engineering problems in it, and extend it with my own features going forward. Full attribution and license terms are below.
+Named after **Mehdi**, inspired by Tony Stark's AI J.A.R.V.I.S. in *Iron Man*, this project is a hands-on attempt to build that same always-listening, always-useful assistant with real, available technology. It started as an open-source build by **FatihMakes**; I forked it to study the architecture, fix real engineering problems in it, and extend it with my own features going forward. Full attribution and license terms are below.
 
 **Why this project is here:** it's a working example of systems-level engineering — real-time audio streaming, concurrency, cross-platform OS integration, and LLM tool-calling — not a toy demo. I use it as an ongoing sandbox for hardening latency, reliability, and feature scope.
 
@@ -138,7 +138,7 @@ Jarvis_MarkXLVIII/
 │   └── proactive.py         # Proactive silence-break suggestions
 ├── memory/                  # Persistent key-value memory store
 ├── core/
-│   └── prompt.txt           # JARVIS personality and tool-routing rules
+│   └── prompt.txt           # Mehdi personality and tool-routing rules
 └── config/
     └── api_keys.json        # API key and system configuration (gitignored — not tracked)
 ```
